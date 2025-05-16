@@ -1,6 +1,6 @@
 # chopwise
 
-A new Flutter project.
+This app helps suggest food to cook, based on bugdget and locale. You do not have to think through what to eat, let us do it for you while you just do the cooking 😊.
 
 ## Getting Started
 
